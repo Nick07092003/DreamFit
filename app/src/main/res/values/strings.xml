@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DreamFit</string>
+    <string name="dream">Dream</string>
+    <string name="fit">Fit</string>
+    <string name="build_your_dream_physique">Build Your Dream physique!!!</string>
+    <string name="hey_there">Hey there</string>
+    <string name="hey_there1">Hey there,</string>
+    <string name="create_an_account">Create an Account</string>
+</resources>
